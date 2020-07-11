@@ -1,11 +1,8 @@
-### Hi there 👋
-
-**Thanks for visiting my GitHub profile, it's great to see you!** 😀
+**Hi there 👋 Thanks for visiting my GitHub profile, it's great to see you!** 😀
 
 Here are some quick things about me:
 
 - 🔭 I'm a software developer from New Zealand and I love Python, TypeScript and React.
-    - However, I develop with a lot more than just these
 - 💻 I enjoy programming a lot.
 - 📫 Depending on what you're wanting, the best way to reach me is:
     - Help on a post / video I made: Comment on the post / video
