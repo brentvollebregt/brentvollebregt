@@ -1,0 +1,27 @@
+name: Add latest events to README
+
+on:
+    workflow_dispatch:
+    schedule:
+        - cron: '0 * * * *'
+
+jobs: 
+    update-readme-with-blog: 
+        name: Update README with my latest blog posts
+        runs-on: ubuntu-latest
+        steps: 
+            - uses: actions/checkout@v2
+            - uses: gautamkrishnar/blog-post-workflow@master
+              with: 
+                max_post_count: "5"
+                feed_list: "https://nitratine.net/rss.xml"
+
+    update-readme-with-youtube:
+        name: Update README with my latest videos on YouTube
+        runs-on: ubuntu-latest
+        steps:
+        - uses: actions/checkout@v2
+        - uses: gautamkrishnar/blog-post-workflow@master
+            with:
+            comment_tag_name: "YOUTUBE"
+            feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCesEknt3SRX9R9W_f93Tb7g":  
