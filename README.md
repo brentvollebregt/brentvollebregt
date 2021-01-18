@@ -16,7 +16,17 @@ You can also find me at ...
 
 Also, here is a [small portfolio of my faviourite projects](https://nitratine.net/portfolio/) 😎
 
-# Blog posts
+---
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
+
+➡️ [more videos...](https://youtube.com/PyTutorials)
+
+### 📕 Latest Blog Posts
+
 <!-- BLOG-POST-LIST:START -->
 - [How To Set Up Open Drone Map On Windows](https://nitratine.net/blog/post/how-to-set-up-open-drone-map-on-windows/)
 - [Python Face Recognition Tutorial](https://nitratine.net/blog/post/python-face-recognition-tutorial/)
@@ -24,3 +34,5 @@ Also, here is a [small portfolio of my faviourite projects](https://nitratine.ne
 - [How To Take A Screenshot In Python Using MSS](https://nitratine.net/blog/post/how-to-take-a-screenshot-in-python-using-mss/)
 - [How To Take A Screenshot In Python Using PIL](https://nitratine.net/blog/post/how-to-take-a-screenshot-in-python-using-pil/)
 <!-- BLOG-POST-LIST:END -->
+
+➡️ [more blog posts...](https://nitratine.net/blog/)
