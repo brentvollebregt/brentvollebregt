@@ -15,3 +15,7 @@ You can also find me at ...
 - 🎥 [YouTube/PyTutorials](https://www.youtube.com/PyTutorials): where I make medium-level Python tutorials on focused topics.
 
 Also, here is a [small portfolio of my faviourite projects](https://nitratine.net/portfolio/) 😎
+
+# Blog posts
+<!-- BLOG-POST-LIST:START -->
+<!-- BLOG-POST-LIST:END -->
