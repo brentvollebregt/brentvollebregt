@@ -25,3 +25,20 @@ jobs:
               with:
                 comment_tag_name: "YOUTUBE"
                 feed_list: "https://www.youtube.com/feeds/videos.xml?channel_id=UCesEknt3SRX9R9W_f93Tb7g"
+
+    update-readme-images:
+        name: Generate new images for README
+        runs-on: ubuntu-latest
+        steps:
+            - uses: actions/checkout@v2
+            - uses: lowlighter/metrics@latest
+              with:
+                token: ${{ secrets.METRICS_TOKEN }}
+                committer_token: ${{ secrets.GITHUB_TOKEN }}
+                filename: 'images/habbits.svg'
+                plugin_habits: yes
+                plugin_habits_from: 500
+                plugin_habits_days: 30
+                plugin_habits_facts: yes
+                plugin_habits_charts: yes
+                config_timezone: Pacific/Auckland
