@@ -49,5 +49,5 @@ jobs:
                 config_timezone: Pacific/Auckland
                 
                 plugin_languages: yes
-                plugin_languages_ignored: "ShaderLab"
+                plugin_languages_skipped: 'Lucy-In-The-Sky-With-Emotion'
                 
