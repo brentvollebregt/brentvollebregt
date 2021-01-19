@@ -1,4 +1,4 @@
-name: Add latest events to README
+name: Update README
 
 on:
     workflow_dispatch:
