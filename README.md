@@ -86,7 +86,7 @@ Also, here is a [small portfolio of my faviourite projects](https://nitratine.ne
 <details>
   <summary>⚡ GitHub Stats</summary>
 
+  <img align="center" alt="brentvollebregt's lowlighter/metrics Stats" src="https://raw.githubusercontent.com/brentvollebregt/brentvollebregt/master/images/habbits.svg" />
   <img align="center" alt="brentvollebregt's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=brentvollebregt&show_icons=true&hide_border=true" />
-  <img align="center" alt="brentvollebregt's Most Used Languages" src="https://github-readme-stats.vercel.app/api/top-langs?username=brentvollebregt&show_icons=true&locale=en&layout=compact&hide=ShaderLab" />
   
 </details>
