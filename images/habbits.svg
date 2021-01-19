@@ -611,7 +611,7 @@
           <svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 210 11" width="210" height="16">
             <g>
               
-                <rect class="day" x="0" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
+                <rect class="day" x="0" y="0" width="11" height="11" fill="#216e39" rx="2" ry="2"/>
               
                 <rect class="day" x="15" y="0" width="11" height="11" fill="#ebedf0" rx="2" ry="2"/>
               
@@ -1058,7 +1058,7 @@
       
         <footer>
           <span>These metrics include private contributions, timezone Pacific/Auckland</span>
-          <span>Last updated Mon, 18 Jan 2021 19:34:36 GMT with lowlighter/metrics@3.2.0</span>
+          <span>Last updated Tue, 19 Jan 2021 01:34:24 GMT with lowlighter/metrics@3.2.0</span>
         </footer>
       
       <div id="metrics-end"></div>
