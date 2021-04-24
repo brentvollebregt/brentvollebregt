@@ -73,8 +73,8 @@ Also, here is a [small portfolio of my faviourite projects](https://nitratine.ne
 - [How To Set Up Open Drone Map On Windows](https://nitratine.net/blog/post/how-to-set-up-open-drone-map-on-windows/)
 - [Python Face Recognition Tutorial](https://nitratine.net/blog/post/python-face-recognition-tutorial/)
 - [How To Serve A React App From A Python Server](https://nitratine.net/blog/post/how-to-serve-a-react-app-from-a-python-server/)
-- [How To Take A Screenshot In Python Using PIL](https://nitratine.net/blog/post/how-to-take-a-screenshot-in-python-using-pil/)
 - [How To Take A Screenshot In Python Using MSS](https://nitratine.net/blog/post/how-to-take-a-screenshot-in-python-using-mss/)
+- [How To Take A Screenshot In Python Using PIL](https://nitratine.net/blog/post/how-to-take-a-screenshot-in-python-using-pil/)
 - [Python Beautiful Soup Basics Tutorial](https://nitratine.net/blog/post/python-beautiful-soup-basics-tutorial/)
 - [Python File Backup Script](https://nitratine.net/blog/post/python-file-backup-script/)
 <!-- BLOG-POST-LIST:END -->
