@@ -14,7 +14,7 @@ You can also find me at ...
 - 🌐 [nitratine.net](https://nitratine.net/): where I write small posts on how to do stuff I'll probably forget later or just want to show off.
 - 🎥 [YouTube/PyTutorials](https://www.youtube.com/PyTutorials): where I make medium-level Python tutorials on focused topics.
 
-Also, here is a [small portfolio of my faviourite projects](https://nitratine.net/portfolio/) 😎
+Also, here is a [small portfolio of my favourite projects](https://nitratine.net/portfolio/) 😎
 
 ---
 
