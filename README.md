@@ -55,7 +55,7 @@ Also, here is a [small portfolio of my favourite projects](https://nitratine.net
   
 <!-- YOUTUBE:START -->
 - [How to Encrypt Strings and Files in Python](https://www.youtube.com/watch?v=H8t4DJ3Tdrg)
-- [Python GUI's with PyQt5](https://www.youtube.com/watch?v=ksW59gYEl6Q)
+- [Python GUI&#39;s with PyQt5](https://www.youtube.com/watch?v=ksW59gYEl6Q)
 - [How to Send Emails in Python](https://www.youtube.com/watch?v=YPiHBtddefI)
 - [Python SQLite Basics](https://www.youtube.com/watch?v=SQj17D1Q_6s)
 - [Python GUI Using Chrome](https://www.youtube.com/watch?v=2kbeBzEQfXE)
