@@ -69,7 +69,7 @@ Also, here is a [small portfolio of my favourite projects](https://nitratine.net
   <summary>📕 Latest Blog Posts</summary>
   
 <!-- BLOG-POST-LIST:START -->
-- [A Warning For EF Core's DateTimeOffsetToBinaryConverter](https://nitratine.net/blog/post/a-warning-for-ef-cores-datetimeoffsettobinaryconverter/)
+- [A Warning For EF Core&#39;s DateTimeOffsetToBinaryConverter](https://nitratine.net/blog/post/a-warning-for-ef-cores-datetimeoffsettobinaryconverter/)
 - [How To Set Up Open Drone Map On Windows](https://nitratine.net/blog/post/how-to-set-up-open-drone-map-on-windows/)
 - [Python Face Recognition Tutorial](https://nitratine.net/blog/post/python-face-recognition-tutorial/)
 - [How To Serve A React App From A Python Server](https://nitratine.net/blog/post/how-to-serve-a-react-app-from-a-python-server/)
