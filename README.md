@@ -69,14 +69,14 @@ Also, here is a [small portfolio of my favourite projects](https://nitratine.net
   <summary>📕 Latest Blog Posts</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [How to Pass Secrets Between Runners in GitHub Actions](https://nitratine.net/blog/post/how-to-pass-secrets-between-runners-in-github-actions/)
 - [A Warning For EF Core&#39;s DateTimeOffsetToBinaryConverter](https://nitratine.net/blog/post/a-warning-for-ef-cores-datetimeoffsettobinaryconverter/)
 - [How To Set Up Open Drone Map On Windows](https://nitratine.net/blog/post/how-to-set-up-open-drone-map-on-windows/)
 - [Python Face Recognition Tutorial](https://nitratine.net/blog/post/python-face-recognition-tutorial/)
 - [How To Serve A React App From A Python Server](https://nitratine.net/blog/post/how-to-serve-a-react-app-from-a-python-server/)
-- [How To Take A Screenshot In Python Using MSS](https://nitratine.net/blog/post/how-to-take-a-screenshot-in-python-using-mss/)
 - [How To Take A Screenshot In Python Using PIL](https://nitratine.net/blog/post/how-to-take-a-screenshot-in-python-using-pil/)
+- [How To Take A Screenshot In Python Using MSS](https://nitratine.net/blog/post/how-to-take-a-screenshot-in-python-using-mss/)
 - [Python Beautiful Soup Basics Tutorial](https://nitratine.net/blog/post/python-beautiful-soup-basics-tutorial/)
-- [Python File Backup Script](https://nitratine.net/blog/post/python-file-backup-script/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nitratine.net/blog/)
