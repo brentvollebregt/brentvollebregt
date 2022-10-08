@@ -7,7 +7,7 @@ Here are some quick things about me:
 - 📫 Depending on what you're wanting, the best way to reach me is:
     - Help on a post / video I made: Comment on the post / video
     - Anything else: Email me
-- ⚡ I love Python, .NET, TypeScript and React and typically do full-stack development
+- ⚡ I love TypeScript, React, .NET and Python and typically do full-stack development
 
 You can also find me at ...
 
