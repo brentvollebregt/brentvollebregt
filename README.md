@@ -69,6 +69,7 @@ Also, here is a [small portfolio of my favourite projects](https://nitratine.net
   <summary>📕 Latest Blog Posts</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [C# Class to Record Converter](https://nitratine.net/blog/post/c-sharp-class-to-record-coverter/)
 - [Import and Export files from an Azure Storage Account File Share with AzCopy](https://nitratine.net/blog/post/import-and-export-files-from-an-azure-storage-account-file-share-with-azcopy/)
 - [How to Clone or Export an Azure SQL Database Using SqlPackage](https://nitratine.net/blog/post/how-to-clone-or-export-an-azure-sql-database-using-sqlpackage/)
 - [Directory Structure to Text](https://nitratine.net/blog/post/directory-structure-to-text/)
@@ -76,7 +77,6 @@ Also, here is a [small portfolio of my favourite projects](https://nitratine.net
 - [A Warning For EF Core&#39;s DateTimeOffsetToBinaryConverter](https://nitratine.net/blog/post/a-warning-for-ef-cores-datetimeoffsettobinaryconverter/)
 - [How To Set Up Open Drone Map On Windows](https://nitratine.net/blog/post/how-to-set-up-open-drone-map-on-windows/)
 - [Python Face Recognition Tutorial](https://nitratine.net/blog/post/python-face-recognition-tutorial/)
-- [How To Serve A React App From A Python Server](https://nitratine.net/blog/post/how-to-serve-a-react-app-from-a-python-server/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nitratine.net/blog/)
