@@ -1,7 +1,5 @@
 **Hi there 👋, it's great to see you!** 😀
 
-Here are some quick things about me:
-
 - 🔭 I'm a software developer from New Zealand (currently in Wellington)
 - ⚗️ A lover of science, heavy machinery, and the advantage of software
 - 📫 Depending on what you're wanting, the best way to reach me is:
