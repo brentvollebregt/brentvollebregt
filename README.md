@@ -67,6 +67,7 @@ Also, here is a [small portfolio of my favourite projects](https://nitratine.net
   <summary>📕 Latest Blog Posts</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [How to Set a Static IP Address on a Raspberry Pi 5](https://nitratine.net/blog/post/how-to-set-a-static-ip-address-on-a-raspberry-pi-5/)
 - [How to replay a browser request with Python](https://nitratine.net/blog/post/how-to-replay-a-browser-request-with-python/)
 - [C# Class to Record Converter](https://nitratine.net/blog/post/c-sharp-class-to-record-coverter/)
 - [Import and Export files from an Azure Storage Account File Share with AzCopy](https://nitratine.net/blog/post/import-and-export-files-from-an-azure-storage-account-file-share-with-azcopy/)
@@ -74,7 +75,6 @@ Also, here is a [small portfolio of my favourite projects](https://nitratine.net
 - [Directory Structure to Text](https://nitratine.net/blog/post/directory-structure-to-text/)
 - [How to Pass Secrets Between Runners in GitHub Actions](https://nitratine.net/blog/post/how-to-pass-secrets-between-runners-in-github-actions/)
 - [A Warning For EF Core&#39;s DateTimeOffsetToBinaryConverter](https://nitratine.net/blog/post/a-warning-for-ef-cores-datetimeoffsettobinaryconverter/)
-- [How To Set Up Open Drone Map On Windows](https://nitratine.net/blog/post/how-to-set-up-open-drone-map-on-windows/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nitratine.net/blog/)
