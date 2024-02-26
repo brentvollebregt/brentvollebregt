@@ -67,6 +67,7 @@ Also, here is a [small portfolio of my favourite projects](https://nitratine.net
   <summary>📕 Latest Blog Posts</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Getting an SSL error because a website uses HSTS even though it never sends the header?](https://nitratine.net/blog/post/getting-an-ssl-error-because-a-website-uses-hsts-even-though-it-never-sends-the-header/)
 - [How to Set a Static IP Address on a Raspberry Pi 5](https://nitratine.net/blog/post/how-to-set-a-static-ip-address-on-a-raspberry-pi-5/)
 - [How to replay a browser request with Python](https://nitratine.net/blog/post/how-to-replay-a-browser-request-with-python/)
 - [C# Class to Record Converter](https://nitratine.net/blog/post/c-sharp-class-to-record-coverter/)
@@ -74,7 +75,6 @@ Also, here is a [small portfolio of my favourite projects](https://nitratine.net
 - [How to Clone or Export an Azure SQL Database Using SqlPackage](https://nitratine.net/blog/post/how-to-clone-or-export-an-azure-sql-database-using-sqlpackage/)
 - [Directory Structure to Text](https://nitratine.net/blog/post/directory-structure-to-text/)
 - [How to Pass Secrets Between Runners in GitHub Actions](https://nitratine.net/blog/post/how-to-pass-secrets-between-runners-in-github-actions/)
-- [A Warning For EF Core&#39;s DateTimeOffsetToBinaryConverter](https://nitratine.net/blog/post/a-warning-for-ef-cores-datetimeoffsettobinaryconverter/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nitratine.net/blog/)
