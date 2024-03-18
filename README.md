@@ -1,4 +1,8 @@
-**Hi there 👋, it's great to see you!** 😀
+<div align="left">
+    <img width="100%" height="100%" src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbDhuY2Y5c2hzMHBzMXRxbGR5amowNTE2OHN1OXN4YTJqZnRuYzk2eSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Y0D5cpwzuFSduUykQK/giphy.gif" alt="smudge"/>
+</div>
+
+### Hi there 👋, it's great to see you! 😀
 
 - 🔭 I'm a software developer from New Zealand (currently in Wellington)
 - ⚗️ A lover of science, heavy machinery, and the advantage of software
@@ -88,3 +92,9 @@ Also, here is a [small portfolio of my favourite projects](https://nitratine.net
   <img align="center" alt="brentvollebregt's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=brentvollebregt&show_icons=true&hide_border=true" />
   
 </details> -->
+
+<!--
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExemNrbWZ5dTdxODVrNGRiczUwaXhqNDl0dWl3OXI3eXZtOTJlMXFtayZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Vf3adgtpfischioMNY/giphy.gif
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExbmZxZDFoc2Y3dnd2b2p1ZHh0OHlvcTVieTdtNjFhaDNsM3g3NHBibSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/LP34YoHBzwvageVyD2/giphy.gif
+https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExdzVoNXF6bzNwdHV1b2Q0c2NjY2pnZWExNWd6andscmM5eHR3Y3djMCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/tNWKVGEMZpo6IvJMtm/giphy.gif
+-->
