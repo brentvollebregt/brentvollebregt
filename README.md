@@ -5,11 +5,11 @@
 ### Hi there 👋, it's great to see you! 😀
 
 - 🔭 I'm a software developer from New Zealand (currently in Wellington)
-- ⚗️ A lover of science, heavy machinery, and the advantage of software
+- ⚗️ A lover of science, heavy machinery, and software development
 - 📫 Depending on what you're wanting, the best way to reach me is:
     - Help on a post / video I made: Comment on the post / video
     - Anything else: Email me
-- ⚡ I love TypeScript, React, .NET and Python and typically do full-stack development
+- ⚡ I commonly use TypeScript, React, .NET, Python and typically do full-stack development
 
 You can also find me at ...
 
