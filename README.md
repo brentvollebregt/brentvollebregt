@@ -8,7 +8,7 @@
 - ⚗️ A lover of science, heavy machinery, and software development
 - 📫 Depending on what you're wanting, the best way to reach me is:
     - Help on a post / video I made: Comment on the post / video
-    - Anything else: Email me
+    - Anything else: [Email me](https://nitratine.net/about/#contact)
 - ⚡ I commonly use TypeScript, React, .NET, Python and typically do full-stack development
 
 You can also find me at ...
