@@ -71,6 +71,7 @@ Also, here is a [small portfolio of my favourite projects](https://nitratine.net
   <summary>📕 Latest Blog Posts</summary>
   
 <!-- BLOG-POST-LIST:START -->
+- [Connect PlayStation Controller to Raspberry Pi using Python](https://nitratine.net/blog/post/connect-playstation-controller-to-raspberry-pi-using-python/)
 - [Getting an SSL error because a website uses HSTS even though it never sends the header?](https://nitratine.net/blog/post/getting-an-ssl-error-because-a-website-uses-hsts-even-though-it-never-sends-the-header/)
 - [How to Set a Static IP Address on a Raspberry Pi 5](https://nitratine.net/blog/post/how-to-set-a-static-ip-address-on-a-raspberry-pi-5/)
 - [How to replay a browser request with Python](https://nitratine.net/blog/post/how-to-replay-a-browser-request-with-python/)
@@ -78,7 +79,6 @@ Also, here is a [small portfolio of my favourite projects](https://nitratine.net
 - [Import and Export files from an Azure Storage Account File Share with AzCopy](https://nitratine.net/blog/post/import-and-export-files-from-an-azure-storage-account-file-share-with-azcopy/)
 - [How to Clone or Export an Azure SQL Database Using SqlPackage](https://nitratine.net/blog/post/how-to-clone-or-export-an-azure-sql-database-using-sqlpackage/)
 - [Directory Structure to Text](https://nitratine.net/blog/post/directory-structure-to-text/)
-- [How to Pass Secrets Between Runners in GitHub Actions](https://nitratine.net/blog/post/how-to-pass-secrets-between-runners-in-github-actions/)
 <!-- BLOG-POST-LIST:END -->
 
 ➡️ [more blog posts...](https://nitratine.net/blog/)
